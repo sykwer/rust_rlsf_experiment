@@ -1,0 +1,9 @@
+[package]
+name = "rlsf_experiment"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ctrlc = "3.4.5"
+libc = "0.2.155"
+rlsf = "0.2.1"
